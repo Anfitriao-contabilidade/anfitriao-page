@@ -1,0 +1,3 @@
+{
+  "extends": "@anfitriao/config/tsconfig.base.json"
+}
