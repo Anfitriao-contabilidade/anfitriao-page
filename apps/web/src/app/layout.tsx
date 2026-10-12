@@ -68,7 +68,7 @@ export const metadata: Metadata = {
 		follow: true,
 	},
 	icons: {
-		icon: "/images/logo.png",
+		icon: "/images/logo.pnhyjg",
 		shortcut: "/images/logo.png",
 	},
 	alternates: {
